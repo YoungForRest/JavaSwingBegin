@@ -1,4 +1,4 @@
-package com.youngth;
+package com.youngth.demo;
 
 import javax.swing.*;
 import java.awt.*;
